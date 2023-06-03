@@ -13,7 +13,7 @@ public class If_Else_If {
         double nota = entrada.nextDouble();
 
         if (nota > 10 || nota < 0){
-            System.out.println("Nota InvÃ¡lida!");
+            System.out.println("Nota Inválida!");
         }
         else if (nota > 8.1){
             System.out.println("Conceito A");
